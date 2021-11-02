@@ -19,6 +19,7 @@
   "homepage": "https://github.com/Blaxter-x/OpenZepelinTutorial#readme",
   "devDependencies": {
     "@openzeppelin/contracts": "^4.3.2",
+    "ganache-cli": "^6.12.2",
     "truffle": "^5.4.17"
   }
 }
