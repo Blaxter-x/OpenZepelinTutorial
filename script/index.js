@@ -8,7 +8,9 @@ module.exports = async function main (callback) {
             callback(1);
     }
 
+
     // Retrieve accounts from the local node
     const accounts = await web3.eth.getAccounts();
     console.log(accounts)
+
 }
