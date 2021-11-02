@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Blaxter-x/OpenZepelinTutorial/issues"
   },
-  "homepage": "https://github.com/Blaxter-x/OpenZepelinTutorial#readme"
+  "homepage": "https://github.com/Blaxter-x/OpenZepelinTutorial#readme",
+  "devDependencies": {
+    "truffle": "^5.4.17"
+  }
 }
