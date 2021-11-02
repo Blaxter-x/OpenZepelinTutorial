@@ -1,0 +1,20 @@
+{
+  "name": "openzepelintutorial",
+  "version": "1.0.0",
+  "description": "OpenZepelinTutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blaxter-x/OpenZepelinTutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blaxter-x/OpenZepelinTutorial/issues"
+  },
+  "homepage": "https://github.com/Blaxter-x/OpenZepelinTutorial#readme"
+}
